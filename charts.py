@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Data from your Python code results
 metrics = ['Accuracy', 'Precision', 'Recall', 'F1-Score']
 forward = [0.742, 0.745, 0.742, 0.741]
 backward = [0.767, 0.772, 0.767, 0.766]
